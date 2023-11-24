@@ -20,7 +20,7 @@ Welcome to my GitHub profile. I'm passionate about Data Scientist and Machine le
 
 ## 🌍 Connect with Me
 
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/uzumaki-data-116742273/))
+- [LinkedIn](https://www.linkedin.com/in/uzumaki-data-116742273/)
 
 Feel free to explore and star any repositories that catch your eye!
 
