@@ -4,12 +4,9 @@ Welcome to my GitHub profile. I'm passionate about Data Scientist and Machine le
 
 ## 🚀 Quick Overview
 
-- 🔭 I’m currently working on [mention current project or focus].
-- 🌱 I’m currently learning [mention what you're learning or exploring].
-- 👯 I’m looking to collaborate on [mention areas where you'd like collaboration].
-- 🤔 I’m looking for help with [mention any challenges or specific areas you'd like assistance with].
-- 💬 Ask me about [mention topics you're knowledgeable about].
-- 📫 How to reach me: [provide your email or social media handles].
+- 🔭 I’m currently working on Data Scientist.
+- 🌱 I’m currently learning Machine Learning, Deep Learning and Business Intelligenc Analisyt.
+- 👯 I’m looking to collaborate on Data Scientist Project.
 
 ## 🛠️ Technologies & Tools
 
