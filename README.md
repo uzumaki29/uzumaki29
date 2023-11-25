@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I'm passionate about Data Scientist and Machine le
 ## 🚀 Quick Overview
 
 - 🔭 I’m currently working on Data Scientist.
-- 🌱 I’m currently learning Machine Learning, Deep Learning and Business Intelligenc Analisyst.
+- 🌱 I’m currently learning Machine Learning, Deep Learning and Business Intelligence Analisyst.
 - 👯 I’m looking to collaborate on Data Scientist Project.
 
 ## 🛠️ Technologies & Tools
